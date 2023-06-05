@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Treadmill",
+    "price": 499.99,
+    "features": ["Foldable design", "Multiple workout programs", "Heart rate monitor"]
+  },
+  {
+    "id": 2,
+    "name": "Dumbbell Set",
+    "price": 149.99,
+    "features": ["Adjustable weights", "Non-slip grip", "Durable construction"]
+  },
+  {
+    "id": 3,
+    "name": "Exercise Bike",
+    "price": 299.99,
+    "features": ["Adjustable resistance", "LCD display", "Comfortable seat"]
+  }
+]
